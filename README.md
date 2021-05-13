@@ -1,2 +1,2 @@
 # Repos
-Repository Shortform
+This is a Shortform of the Project
